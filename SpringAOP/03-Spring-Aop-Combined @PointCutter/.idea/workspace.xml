@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bee7a031-70a9-4160-9456-7b6a7ff0318a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/.idea/libraries/Spring_4_3_18_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/.idea/libraries/org_aspectj_aspectjweaver_1_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/Spring-Demo-App.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/aspectjweaver-1.9.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/javax.annotation-api-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-aop-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-aspects-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-beans-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-context-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-context-support-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-core-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-expression-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-instrument-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-jdbc-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-jms-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-messaging-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-orm-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-oxm-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-test-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-tx-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/out/production/SpringDemoAnnotations/com/aopdemo/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/out/production/SpringDemoAnnotations/com/aopdemo/DemoConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/out/production/SpringDemoAnnotations/com/aopdemo/MainDemoApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/out/production/SpringDemoAnnotations/com/aopdemo/com/aopdemo/aspect/MyDemoLoggingAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/out/production/SpringDemoAnnotations/com/aopdemo/dao/com/aopdemo/dao/AccountDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/out/production/SpringDemoAnnotations/com/aopdemo/dao/com/aopdemo/dao/MembershipDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/src/com/aopdemo/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/src/com/aopdemo/DemoConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/src/com/aopdemo/MainDemoApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/src/com/aopdemo/com/aopdemo/aspect/MyDemoLoggingAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/src/com/aopdemo/dao/com/aopdemo/dao/AccountDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/src/com/aopdemo/dao/com/aopdemo/dao/MembershipDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/.idea/libraries/Spring_4_3_18_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/.idea/libraries/org_aspectj_aspectjweaver_1_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/02-Spring-Demo-App.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/aspectjweaver-1.9.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/javax.annotation-api-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-aop-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-aspects-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-beans-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-context-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-context-support-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-core-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-expression-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-instrument-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-jdbc-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-jms-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-messaging-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-orm-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-oxm-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-test-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-tx-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/src/com/aopdemo/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/src/com/aopdemo/DemoConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/src/com/aopdemo/MainDemoApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/src/com/aopdemo/com/aopdemo/aspect/MyDemoLoggingAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/src/com/aopdemo/dao/com/aopdemo/dao/AccountDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/src/com/aopdemo/dao/com/aopdemo/dao/MembershipDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringBoot/30-thymeleafdemo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringCore/Notlar" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.45514512">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/com/aopdemo/dao/com/aopdemo/dao/AccountDAO.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="561">
+                  <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/com/aopdemo/com/aopdemo/aspect/MyDemoLoggingAspect.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="136">
+                  <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#942#943#0" expanded="true" />
+                    <element signature="e#1028#1029#0" expanded="true" />
+                    <element signature="e#1099#1100#0" expanded="true" />
+                    <element signature="e#1178#1179#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/aopdemo/MainDemoApp.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="374">
+                  <caret line="24" selection-start-line="24" selection-end-line="24" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/springdemo/Coach.java" />
+        <option value="$PROJECT_DIR$/src/springdemo/FortuneService.java" />
+        <option value="$PROJECT_DIR$/src/springdemo/HappyFortuneService.java" />
+        <option value="$PROJECT_DIR$/src/springdemo/DatabaseFortuneService.java" />
+        <option value="$PROJECT_DIR$/src/springdemo/RESTFortuneService.java" />
+        <option value="$PROJECT_DIR$/src/fortuneList" />
+        <option value="$PROJECT_DIR$/src/fortuneList1" />
+        <option value="$PROJECT_DIR$/src/FortuneList" />
+        <option value="$PROJECT_DIR$/src/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/springdemo/AnnotationDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/springdemo/Scope.java" />
+        <option value="$PROJECT_DIR$/src/springdemo/AnnotationBeanScopeDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/springdemo/TennisCoach.java" />
+        <option value="$PROJECT_DIR$/src/springdemo/JavaConfigDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/springdemo/RandomFortuneService.java" />
+        <option value="$PROJECT_DIR$/src/springdemo/SadFortuneService.java" />
+        <option value="$PROJECT_DIR$/src/springdemo/SwimCoach.java" />
+        <option value="$PROJECT_DIR$/src/sport.properties" />
+        <option value="$PROJECT_DIR$/src/springdemo/SwimJavaConfigDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/springdemo/SampleFortune.java" />
+        <option value="$PROJECT_DIR$/src/springdemo/SportConfig.java" />
+        <option value="$PROJECT_DIR$/src/springdemo/SampleConfigClass.java" />
+        <option value="$PROJECT_DIR$/src/springdemo/SampleCoach.java" />
+        <option value="$PROJECT_DIR$/src/springdemo/SampleConfigDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/com/aopdemo/DemoConfig.java" />
+        <option value="$PROJECT_DIR$/src/MainDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/com/aopdemo/Account.java" />
+        <option value="$PROJECT_DIR$/src/com/aopdemo/dao/com/aopdemo/dao/MembershipDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/aopdemo/dao/com/aopdemo/dao/AccountDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/aopdemo/MainDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/com/aopdemo/com/aopdemo/aspect/MyDemoLoggingAspect.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="166" />
+    <option name="y" value="-9" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15251142" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="springdemo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA\UdemySpringEğitim\SpringDemoAnnotations\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="springdemo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA\UdemySpringEğitim\SpringDemoAnnotations\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aopdemo.MainDemoApp" />
+      <module name="03-Spring-Aop-Combined @PointCutter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aopdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainDemoApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bee7a031-70a9-4160-9456-7b6a7ff0318a" name="Default Changelist" comment="" />
+      <created>1553866935211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553866935211</updated>
+      <workItem from="1553866937339" duration="11673000" />
+      <workItem from="1554112800399" duration="513000" />
+      <workItem from="1554113533970" duration="11817000" />
+      <workItem from="1554127906929" duration="6000" />
+      <workItem from="1555167362815" duration="1113000" />
+      <workItem from="1555168913927" duration="6289000" />
+      <workItem from="1555177306138" duration="397000" />
+      <workItem from="1555177805763" duration="1918000" />
+      <workItem from="1555182637080" duration="1530000" />
+      <workItem from="1555184183830" duration="15000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1555178172447</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555178172448</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1555178205863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555178205863</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35271000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Designer" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19616205" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.32936078" />
+      <window_info anchor="bottom" id="Spring" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.32936078" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/1.xml" />
+    <entry file="file://$PROJECT_DIR$/src/springdemo/RESTFortuneService.java" />
+    <entry file="file://$PROJECT_DIR$/src/springdemo/fortunelist" />
+    <entry file="file://$PROJECT_DIR$/src/UdemyCoach.iml" />
+    <entry file="file://$PROJECT_DIR$/src/beanLifeCycle-applicationContext.xml" />
+    <entry file="jar://$PROJECT_DIR$/lib/spring-core-4.3.18.RELEASE.jar!/org/springframework/util/PropertyPlaceholderHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fortuneList1" />
+    <entry file="jar://$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="809" selection-start-line="809" selection-end-line="809" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar!/org/springframework/beans/factory/annotation/InjectionMetadata.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="236" selection-start-line="236" selection-end-line="236" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar!/org/springframework/beans/BeanUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="218" selection-start-line="218" selection-end-line="218" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="638" column="39" selection-start-line="638" selection-start-column="39" selection-end-line="638" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="778" selection-start-line="778" selection-end-line="778" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FortuneList" />
+    <entry file="file://$PROJECT_DIR$/src/springdemo/HappyFortuneService.java" />
+    <entry file="file://$PROJECT_DIR$/src/springdemo/DatabaseFortuneService.java" />
+    <entry file="file://$PROJECT_DIR$/src/springdemo/Scope.java" />
+    <entry file="file://$PROJECT_DIR$/src/springdemo/AnnotationDemoApp.java" />
+    <entry file="file://$PROJECT_DIR$/src/springdemo/FortuneService.java" />
+    <entry file="file://$PROJECT_DIR$/src/applicationContext.xml" />
+    <entry file="file://$PROJECT_DIR$/src/springdemo/AnnotationBeanScopeDemoApp.java" />
+    <entry file="file://$PROJECT_DIR$/src/springdemo/RandomFortuneService.java" />
+    <entry file="file://$PROJECT_DIR$/src/springdemo/TennisCoach.java" />
+    <entry file="file://$PROJECT_DIR$/src/springdemo/SadFortuneService.java" />
+    <entry file="file://$PROJECT_DIR$/src/sport.properties" />
+    <entry file="file://$PROJECT_DIR$/src/springdemo/JavaConfigDemoApp.java" />
+    <entry file="file://$PROJECT_DIR$/src/springdemo/Coach.java" />
+    <entry file="file://$PROJECT_DIR$/src/springdemo/SampleFortune.java" />
+    <entry file="file://$PROJECT_DIR$/src/springdemo/SwimCoach.java" />
+    <entry file="file://$PROJECT_DIR$/src/springdemo/SampleConfigClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/springdemo/SampleCoach.java" />
+    <entry file="file://$PROJECT_DIR$/src/springdemo/SampleConfigDemoApp.java" />
+    <entry file="file://$PROJECT_DIR$/src/springdemo/SwimJavaConfigDemoApp.java" />
+    <entry file="file://$PROJECT_DIR$/src/springdemo/SportConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/aopdemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/aopdemo/DemoConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aopdemo/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aopdemo/dao/com/aopdemo/dao/MembershipDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-Spring-Aop-Combined @PointCutter.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aopdemo/dao/com/aopdemo/dao/AccountDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aopdemo/com/aopdemo/aspect/MyDemoLoggingAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#942#943#0" expanded="true" />
+            <element signature="e#1028#1029#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+            <element signature="e#1178#1179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aopdemo/MainDemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|02-Spring-Demo-App</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
