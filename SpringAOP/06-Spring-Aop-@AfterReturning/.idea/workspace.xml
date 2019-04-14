@@ -2,88 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bee7a031-70a9-4160-9456-7b6a7ff0318a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../04-Spring-Aop-@Order/src/com/aopdemo/com/aopdemo/aspect/AopExpressions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04-Spring-Aop-@Order/src/com/aopdemo/com/aopdemo/aspect/MyApiAnalyticsAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04-Spring-Aop-@Order/src/com/aopdemo/com/aopdemo/aspect/MyLogToCloudAsync.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aopdemo/AfterReturningDemoApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/.idea/libraries/Spring_4_3_18_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/.idea/libraries/lib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/.idea/libraries/org_aspectj_aspectjweaver_1_9_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/Spring-Demo-App.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/aopalliance-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/aspectjweaver-1.9.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/javax.annotation-api-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-aop-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-aspects-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-beans-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-context-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-context-support-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-core-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-expression-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-instrument-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-jdbc-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-jms-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-messaging-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-orm-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-oxm-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-test-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/lib/spring-tx-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/out/production/SpringDemoAnnotations/com/aopdemo/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/out/production/SpringDemoAnnotations/com/aopdemo/DemoConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/out/production/SpringDemoAnnotations/com/aopdemo/MainDemoApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/out/production/SpringDemoAnnotations/com/aopdemo/com/aopdemo/aspect/MyDemoLoggingAspect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/out/production/SpringDemoAnnotations/com/aopdemo/dao/com/aopdemo/dao/AccountDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/out/production/SpringDemoAnnotations/com/aopdemo/dao/com/aopdemo/dao/MembershipDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/src/com/aopdemo/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/src/com/aopdemo/DemoConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/src/com/aopdemo/MainDemoApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/src/com/aopdemo/com/aopdemo/aspect/MyDemoLoggingAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/src/com/aopdemo/dao/com/aopdemo/dao/AccountDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Spring-Demo-App/src/com/aopdemo/dao/com/aopdemo/dao/MembershipDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/.idea/libraries/Spring_4_3_18_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/.idea/libraries/org_aspectj_aspectjweaver_1_9_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/02-Spring-Demo-App.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/aopalliance-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/aspectjweaver-1.9.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/javax.annotation-api-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-aop-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-aspects-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-beans-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-context-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-context-support-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-core-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-expression-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-instrument-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-jdbc-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-jms-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-messaging-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-orm-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-oxm-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-test-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/lib/spring-tx-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/src/com/aopdemo/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/src/com/aopdemo/DemoConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/src/com/aopdemo/MainDemoApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/src/com/aopdemo/com/aopdemo/aspect/MyDemoLoggingAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/src/com/aopdemo/dao/com/aopdemo/dao/AccountDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Spring-Demo-App/src/com/aopdemo/dao/com/aopdemo/dao/MembershipDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringBoot/30-thymeleafdemo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringCore/Notlar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,7 +20,33 @@
         <entry file="file://$PROJECT_DIR$/src/com/aopdemo/AfterReturningDemoApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/aopdemo/com/aopdemo/aspect/AopExpressions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/aopdemo/com/aopdemo/aspect/MyApiAnalyticsAspect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -109,10 +54,24 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/aopdemo/com/aopdemo/aspect/MyDemoLoggingAspect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="416">
               <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/aopdemo/com/aopdemo/aspect/MyLogToCloudAsync.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -188,7 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -224,6 +182,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -329,6 +288,7 @@
       <workItem from="1555184315273" duration="1427000" />
       <workItem from="1555185773518" duration="3264000" />
       <workItem from="1555189460000" duration="2155000" />
+      <workItem from="1555239853624" duration="465000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1555178172447</created>
@@ -348,7 +308,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42117000" />
+    <option name="totallyTimeSpent" value="42582000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -368,7 +328,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.20255864" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20469083" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
@@ -514,46 +474,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aopdemo/com/aopdemo/aspect/MyLogToCloudAsync.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="64" lean-forward="true" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aopdemo/DemoConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aopdemo/com/aopdemo/aspect/AopExpressions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aopdemo/com/aopdemo/aspect/MyApiAnalyticsAspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -598,13 +524,47 @@
     <entry file="file://$PROJECT_DIR$/src/com/aopdemo/AfterReturningDemoApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aopdemo/com/aopdemo/aspect/AopExpressions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aopdemo/com/aopdemo/aspect/MyApiAnalyticsAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aopdemo/com/aopdemo/aspect/MyLogToCloudAsync.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aopdemo/com/aopdemo/aspect/MyDemoLoggingAspect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="416">
           <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="imports" expanded="true" />

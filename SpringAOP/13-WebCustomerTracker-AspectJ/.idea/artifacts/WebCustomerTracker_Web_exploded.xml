@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WebCustomerTracker:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebCustomerTracker_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="WebCustomerTracker/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="javaee-facet-classes" facet="WebCustomerTracker/web/Web" />
+          <element id="module-output" name="WebCustomerTracker" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Hibernate 5.4.2-5.4.2" />
+          <element id="library" level="project" name="Spring-4.3.18.RELEASE" />
+          <element id="library" level="project" name="Spring MVC-4.3.18.RELEASE" />
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="project" name="com.sun.xml.bind:jaxb-core:2.3.0.1" />
+          <element id="library" level="project" name="com.sun.xml.bind:jaxb-impl:2.3.2" />
+          <element id="library" level="project" name="com.sun.activation:javax.activation:1.2.0" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
