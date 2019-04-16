@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/WebCustomerTracker.iml" filepath="$PROJECT_DIR$/.idea/WebCustomerTracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/13-WebCustomerTracker-AspectJ.iml" filepath="$PROJECT_DIR$/.idea/13-WebCustomerTracker-AspectJ.iml" />
     </modules>
   </component>
 </project>

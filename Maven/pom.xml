@@ -15,11 +15,31 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>1.7</maven.compiler.source>
-    <maven.compiler.target>1.7</maven.compiler.target>
+    <maven.compiler.source>1.11</maven.compiler.source>
+    <maven.compiler.target>1.11</maven.compiler.target>
   </properties>
 
   <dependencies>
+    <!-- We need to add support for atlassian mail: atlassian-mail -->
+    <dependency>
+      <groupId>com.atlassian.mail</groupId>
+      <artifactId>atlassian-mail</artifactId>
+      <version>5.0.1</version>
+    </dependency>
+    <!-- We need to add support for hibernate core dependency: hibernate-core -->
+    <dependency>
+      <groupId>org.hibernate</groupId>
+      <artifactId>hibernate-core</artifactId>
+      <version>5.4.2.Final</version>
+    </dependency>
+
+    <!-- We need to add support for servlet API dependency: javax.servlet.api -->
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>javax.servlet-api</artifactId>
+      <version>4.0.1</version>
+    </dependency>
+
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
@@ -64,4 +84,13 @@
       </plugins>
     </pluginManagement>
   </build>
+
+  <repositories>
+      <repository>
+        <id>atlassian</id>
+        <name>the atlassian repo</name>
+        <url>https://maven.atlassian.com/content/repositories/atlassian-public/</url>
+      </repository>
+  </repositories>
+
 </project>

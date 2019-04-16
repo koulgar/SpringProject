@@ -1,7 +1,7 @@
 package com.springdemo.service;
 
 
-import com.springdemo.controller.entity.Customer;
+import com.springdemo.entity.Customer;
 
 import java.util.List;
 

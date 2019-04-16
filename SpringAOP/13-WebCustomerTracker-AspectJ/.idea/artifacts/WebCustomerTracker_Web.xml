@@ -12,6 +12,7 @@
           <element id="library" level="project" name="com.sun.xml.bind:jaxb-core:2.3.0.1" />
           <element id="library" level="project" name="com.sun.xml.bind:jaxb-impl:2.3.2" />
           <element id="library" level="project" name="com.sun.activation:javax.activation:1.2.0" />
+          <element id="library" level="project" name="org.aspectj:aspectjweaver:1.9.3" />
         </element>
       </element>
     </root>

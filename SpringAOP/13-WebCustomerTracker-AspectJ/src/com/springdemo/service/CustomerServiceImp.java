@@ -1,7 +1,7 @@
 package com.springdemo.service;
 
-import com.springdemo.controller.dao.CustomerDAO;
-import com.springdemo.controller.entity.Customer;
+import com.springdemo.dao.CustomerDAO;
+import com.springdemo.entity.Customer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
