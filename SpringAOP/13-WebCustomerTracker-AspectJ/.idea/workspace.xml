@@ -7,27 +7,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fbe23b3-53d3-4e8b-961e-06006e113f1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_aspectj_aspectjweaver_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/springdemo/aspect/CRMLoggingAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/WebCustomerTracker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/13-WebCustomerTracker-AspectJ.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/WebCustomerTracker_Web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/WebCustomerTracker_Web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/WebCustomerTracker_Web_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/WebCustomerTracker_Web_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/classes/com/springdemo/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/classes/com/springdemo/controller/CustomerController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/classes/com/springdemo/controller/dao/CustomerDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/classes/com/springdemo/controller/dao/CustomerDAOImp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/classes/com/springdemo/controller/entity/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/classes/com/springdemo/service/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/classes/com/springdemo/service/CustomerService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/classes/com/springdemo/service/CustomerServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/classes/com/springdemo/service/CustomerServiceImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/spring-mvc-crud-demo-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/spring-mvc-crud-demo-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/springdemo/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/springdemo/controller/CustomerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/springdemo/controller/dao/CustomerDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/springdemo/dao/CustomerDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/springdemo/controller/dao/CustomerDAOImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/springdemo/dao/CustomerDAOImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/springdemo/controller/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/springdemo/entity/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/springdemo/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/springdemo/service/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/springdemo/service/CustomerServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/springdemo/service/CustomerServiceImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/spring-mvc-crud-demo-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/spring-mvc-crud-demo-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringSecurity/08-spring-security-demo-JDBC-plaintext/src/main/resources/persistence-mysql.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringSecurity/08-spring-security-demo-JDBC-plaintext/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringSecurity/08-spring-security-demo-JDBC-plaintext/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringSecurity/08-spring-security-demo-JDBC-plaintext/src/main/java/com/koulgar/config/DemoAppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringSecurity/08-spring-security-demo-JDBC-plaintext/src/main/java/com/koulgar/config/DemoAppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringSecurity/08-spring-security-demo-JDBC-plaintext/src/main/java/com/koulgar/config/DemoSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringSecurity/08-spring-security-demo-JDBC-plaintext/src/main/java/com/koulgar/config/DemoSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringSecurity/08-spring-security-demo-JDBC-plaintext/target/classes/com/koulgar/config/DemoAppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringSecurity/08-spring-security-demo-JDBC-plaintext/target/classes/com/koulgar/config/DemoAppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringSecurity/08-spring-security-demo-JDBC-plaintext/target/classes/com/koulgar/config/DemoSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringSecurity/08-spring-security-demo-JDBC-plaintext/target/classes/com/koulgar/config/DemoSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringSecurity/08-spring-security-demo-JDBC-plaintext/target/spring-security-demo/WEB-INF/classes/com/koulgar/config/DemoAppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringSecurity/08-spring-security-demo-JDBC-plaintext/target/spring-security-demo/WEB-INF/classes/com/koulgar/config/DemoAppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringSecurity/08-spring-security-demo-JDBC-plaintext/target/spring-security-demo/WEB-INF/classes/com/koulgar/config/DemoSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringSecurity/08-spring-security-demo-JDBC-plaintext/target/spring-security-demo/WEB-INF/classes/com/koulgar/config/DemoSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringSecurity/08-spring-security-demo-JDBC-plaintext/target/spring-security-demo/WEB-INF/view/access-denied.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringSecurity/08-spring-security-demo-JDBC-plaintext/target/spring-security-demo/WEB-INF/view/access-denied.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,18 +46,16 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/springdemo/aspect/CRMLoggingAspect.java">
+        <entry file="file://$PROJECT_DIR$/src/com/springdemo/entity/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="739">
-              <caret line="68" column="9" lean-forward="true" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+            <state relative-caret-position="697">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#forControllerPackage#0;class#CRMLoggingAspect#0" />
-                <element signature="method#forControllerPackage#1;class#CRMLoggingAspect#0" />
-                <element signature="method#forControllerPackage#2;class#CRMLoggingAspect#0" />
-                <element signature="method#forA#0;class#CRMLoggingAspect#0" />
+                <element signature="method#Customer#0;class#Customer#0" />
+                <element signature="method#Customer#1;class#Customer#0" />
+                <element signature="method#toString#0;class#Customer#0" />
               </folding>
             </state>
           </provider>
@@ -133,7 +119,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,6 +143,18 @@
               <item name="13-WebCustomerTracker-AspectJ" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="13-WebCustomerTracker-AspectJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="13-WebCustomerTracker-AspectJ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="13-WebCustomerTracker-AspectJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="13-WebCustomerTracker-AspectJ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="13-WebCustomerTracker-AspectJ" type="b2602c69:ProjectViewProjectNode" />
@@ -192,7 +190,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -404,11 +402,12 @@
       <workItem from="1555164775191" duration="2234000" />
       <workItem from="1555253897866" duration="15000" />
       <workItem from="1555254086594" duration="4445000" />
+      <workItem from="1555421669802" duration="174000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49823000" />
+    <option name="totallyTimeSpent" value="49997000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -421,8 +420,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18176973" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18336888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Persistence" order="3" side_tool="true" />
@@ -598,18 +598,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/springdemo/entity/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="method#Customer#0;class#Customer#0" />
-            <element signature="method#Customer#1;class#Customer#0" />
-            <element signature="method#toString#0;class#Customer#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/customer-form.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="65">
@@ -666,14 +654,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/springdemo/aspect/CRMLoggingAspect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="739">
-          <caret line="68" column="9" lean-forward="true" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+        <state relative-caret-position="1122">
+          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#forControllerPackage#0;class#CRMLoggingAspect#0" />
-            <element signature="method#forControllerPackage#1;class#CRMLoggingAspect#0" />
-            <element signature="method#forControllerPackage#2;class#CRMLoggingAspect#0" />
-            <element signature="method#forA#0;class#CRMLoggingAspect#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/springdemo/entity/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="method#Customer#0;class#Customer#0" />
+            <element signature="method#Customer#1;class#Customer#0" />
+            <element signature="method#toString#0;class#Customer#0" />
           </folding>
         </state>
       </provider>

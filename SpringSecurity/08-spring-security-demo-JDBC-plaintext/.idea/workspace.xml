@@ -7,52 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39266702-c708-4b3a-b836-7ed7db92e632" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Maven/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Maven/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Maven/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Maven/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Maven/target/Maven/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Maven/target/Maven/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Maven/target/Maven/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Maven/target/Maven/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/.idea/libraries/org_aspectj_aspectjweaver_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/src/com/springdemo/aspect/CRMLoggingAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-spring-security-demo-basic-security/.idea/artifacts/02_spring_security_demo_basic_security_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-spring-security-demo-basic-security/src/main/java/com/koulgar/config/DemoSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-spring-security-demo-basic-security/src/main/java/com/koulgar/config/SecurityWebApplicationInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03-spring-security-demo-custom-login-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03-spring-security-demo-custom-login-demo/src/main/java/com/koulgar/config/DemoAppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03-spring-security-demo-custom-login-demo/src/main/java/com/koulgar/config/DemoSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03-spring-security-demo-custom-login-demo/src/main/java/com/koulgar/config/MySpringMvcDispatcherServletInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03-spring-security-demo-custom-login-demo/src/main/java/com/koulgar/config/SecurityWebApplicationInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03-spring-security-demo-custom-login-demo/src/main/java/com/koulgar/controller/DemoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03-spring-security-demo-custom-login-demo/src/main/java/com/koulgar/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03-spring-security-demo-custom-login-demo/src/main/webapp/WEB-INF/view/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03-spring-security-demo-custom-login-demo/src/main/webapp/WEB-INF/view/plain-login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04-spring-security-demo-bootstrap-login-form/src/main/webapp/WEB-INF/view/fancy-login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../07-spring-security-demo-user-roles/src/main/webapp/WEB-INF/view/access-denied.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../07-spring-security-demo-user-roles/src/main/webapp/WEB-INF/view/leaders.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../07-spring-security-demo-user-roles/src/main/webapp/WEB-INF/view/systems.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Maven/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maven/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/.idea/WebCustomerTracker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/.idea/13-WebCustomerTracker-AspectJ.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/.idea/artifacts/WebCustomerTracker_Web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/.idea/artifacts/WebCustomerTracker_Web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/.idea/artifacts/WebCustomerTracker_Web_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/.idea/artifacts/WebCustomerTracker_Web_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/classes/com/springdemo/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/classes/com/springdemo/controller/CustomerController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/classes/com/springdemo/controller/dao/CustomerDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/classes/com/springdemo/controller/dao/CustomerDAOImp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/classes/com/springdemo/controller/entity/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/classes/com/springdemo/service/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/classes/com/springdemo/service/CustomerService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/classes/com/springdemo/service/CustomerServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/classes/com/springdemo/service/CustomerServiceImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/spring-mvc-crud-demo-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/out/artifacts/WebCustomerTracker_Web_exploded/WEB-INF/spring-mvc-crud-demo-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/src/com/springdemo/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/src/com/springdemo/controller/CustomerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/src/com/springdemo/controller/dao/CustomerDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/src/com/springdemo/dao/CustomerDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/src/com/springdemo/controller/dao/CustomerDAOImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/src/com/springdemo/dao/CustomerDAOImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/src/com/springdemo/controller/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/src/com/springdemo/entity/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/src/com/springdemo/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/src/com/springdemo/service/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/src/com/springdemo/service/CustomerServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/src/com/springdemo/service/CustomerServiceImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/web/WEB-INF/spring-mvc-crud-demo-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/web/WEB-INF/spring-mvc-crud-demo-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/persistence-mysql.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/koulgar/config/DemoAppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/koulgar/config/DemoAppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/koulgar/config/DemoSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/koulgar/config/DemoSecurityConfig.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -69,56 +27,37 @@
     <favorites_list name="07-spring-security-demo-user-roles" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/config/DemoSecurityConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="19" column="59" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/config/MySpringMvcDispatcherServletInitializer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/config/SecurityWebApplicationInitializer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/controller/DemoController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.54652685">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/config/DemoSecurityConfig.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="232">
+                  <caret line="23" selection-start-line="23" selection-end-line="23" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/resources/persistence-mysql.properties">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="238">
+                  <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -137,7 +76,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/koulgar/config/config.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/koulgar/config/SecurityWebApplicationInitializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/koulgar/config/MySpringMvcDispatcherServletInitializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/koulgar/config/DemoAppConfig.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/plain-login.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/fancy-login.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/leaders.jsp" />
@@ -145,9 +83,11 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/systems.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/koulgar/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/koulgar/config/DemoSecurityConfig.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/access-denied.jsp" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/persistence-mysql.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/koulgar/config/DemoAppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/koulgar/config/DemoSecurityConfig.java" />
       </list>
     </option>
   </component>
@@ -172,6 +112,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,31 +160,12 @@
               <item name="08-spring-security-demo-JDBC-plaintext" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="08-spring-security-demo-JDBC-plaintext" type="b2602c69:ProjectViewProjectNode" />
-              <item name="08-spring-security-demo-JDBC-plaintext" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="08-spring-security-demo-JDBC-plaintext" type="b2602c69:ProjectViewProjectNode" />
-              <item name="08-spring-security-demo-JDBC-plaintext" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,7 +173,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -264,11 +187,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA\UdemySpringEğitim\SpringSecurity\08-spring-security-demo-JDBC-plaintext\src\main\resources" />
       <recent name="D:\JAVA\UdemySpringEğitim\SpringSecurity\07-spring-security-demo-user-roles\src\main\webapp\WEB-INF\view" />
       <recent name="D:\JAVA\UdemySpringEğitim\SpringSecurity\04-spring-security-demo-bootstrap-login-form\src\main\webapp\WEB-INF\view" />
       <recent name="D:\JAVA\UdemySpringEğitim\SpringSecurity\03-spring-security-demo-custom-login-demo" />
       <recent name="D:\JAVA\UdemySpringEğitim\SpringSecurity\03-spring-security-demo-custom-login-demo\src\main\webapp\WEB-INF\view" />
-      <recent name="D:\JAVA\UdemySpringEğitim\SpringSecurity\03-spring-security-demo-custom-login-demo\src\main\java\com\koulgar\controller" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -508,11 +431,12 @@
       <workItem from="1555353583854" duration="701000" />
       <workItem from="1555354307780" duration="4183000" />
       <workItem from="1555409571353" duration="1033000" />
+      <workItem from="1555411474430" duration="4377000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20621000" />
+    <option name="totallyTimeSpent" value="24998000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -525,9 +449,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.20895523" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.17110874" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -572,13 +495,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/controller.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/config/DemoAppConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Users/KOULGAR/Downloads/solution-code-spring-security-demo-04-bootstrap-login-form/solution-code-spring-security-demo-04-bootstrap-login-form/src/main/webapp/WEB-INF/view/fancy-login.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-153" />
@@ -633,13 +549,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/config/DemoSecurityConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/controller/DemoController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="19" column="59" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/persistence-mysql.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -657,17 +584,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/controller/DemoController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/config/DemoAppConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        <state relative-caret-position="697">
+          <caret line="54" column="76" lean-forward="true" selection-start-line="54" selection-start-column="76" selection-end-line="54" selection-end-column="76" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/config/DemoSecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        <state relative-caret-position="232">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
