@@ -31,6 +31,7 @@ import javax.validation.constraints.Size;
     @Size(min = 1, message = "is required")
     private String email;
 
+
     public CrmUser() {
     }
 
@@ -81,5 +82,4 @@ import javax.validation.constraints.Size;
     public void setEmail(String email) {
         this.email = email;
     }
-
 }

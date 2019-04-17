@@ -1,8 +1,9 @@
 package com.koulgar.service;
 
-import com.koulgar.config.com.koulgar.dao.UserDao;
-import com.koulgar.config.com.koulgar.entitiy.Role;
-import com.koulgar.config.com.koulgar.entitiy.User;
+import com.koulgar.dao.RoleDao;
+import com.koulgar.dao.UserDao;
+import com.koulgar.entitiy.Role;
+import com.koulgar.entitiy.User;
 import com.koulgar.user.CrmUser;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
@@ -25,6 +26,9 @@ public class UserServiceImp implements UserService {
     private UserDao userDao;
 
     @Autowired
+    private RoleDao roleDao;
+
+    @Autowired
     private BCryptPasswordEncoder passwordEncoder;
 
     @Override
@@ -39,7 +43,7 @@ public class UserServiceImp implements UserService {
     public void save(CrmUser crmUser) {
         User user = new User();
         user.setUsername(crmUser.getUserName());
-        user.setPassword(crmUser.getPassword());
+        user.setPassword(passwordEncoder.encode(crmUser.getPassword()));
         user.setFirstName(crmUser.getFirstName());
         user.setLastName(crmUser.getLastName());
         user.setEmail(crmUser.getEmail());

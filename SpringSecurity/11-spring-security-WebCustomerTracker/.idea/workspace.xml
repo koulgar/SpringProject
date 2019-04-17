@@ -7,45 +7,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2c81ff9-521b-45af-bbe4-c74d10d8064a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../08-spring-security-demo-JDBC-plaintext/src/main/resources/persistence-mysql.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Koulgar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/koulgar/aspect/CRMLoggingAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/koulgar/config/CustomerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/koulgar/config/CustomerSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/koulgar/config/SecurityWebApplicationInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/koulgar/config/SpringMvcDispatcherServletInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/koulgar/controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/koulgar/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/koulgar/controller/RegistrationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/koulgar/dao/CustomerDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/koulgar/dao/CustomerDAOImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/koulgar/entity/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/koulgar/service/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/koulgar/service/CustomerServiceImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/koulgar/user/CrmUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/persistence-mysql.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/security-persistence-mysql.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/access-denied.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/customer-form.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/fancy-login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/list-customers.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/registration-confirmation.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/registration-form.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/add-customer-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringAOP/13-WebCustomerTracker-AspectJ/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../08-spring-security-demo-JDBC-plaintext/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../08-spring-security-demo-JDBC-plaintext/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../08-spring-security-demo-JDBC-plaintext/src/main/java/com/koulgar/config/DemoAppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../08-spring-security-demo-JDBC-plaintext/src/main/java/com/koulgar/config/DemoAppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../08-spring-security-demo-JDBC-plaintext/src/main/java/com/koulgar/config/DemoSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../08-spring-security-demo-JDBC-plaintext/src/main/java/com/koulgar/config/DemoSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../08-spring-security-demo-JDBC-plaintext/target/classes/com/koulgar/config/DemoAppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../08-spring-security-demo-JDBC-plaintext/target/classes/com/koulgar/config/DemoAppConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../08-spring-security-demo-JDBC-plaintext/target/classes/com/koulgar/config/DemoSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../08-spring-security-demo-JDBC-plaintext/target/classes/com/koulgar/config/DemoSecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../08-spring-security-demo-JDBC-plaintext/target/spring-security-demo/WEB-INF/classes/com/koulgar/config/DemoAppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../08-spring-security-demo-JDBC-plaintext/target/spring-security-demo/WEB-INF/classes/com/koulgar/config/DemoAppConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../08-spring-security-demo-JDBC-plaintext/target/spring-security-demo/WEB-INF/classes/com/koulgar/config/DemoSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../08-spring-security-demo-JDBC-plaintext/target/spring-security-demo/WEB-INF/classes/com/koulgar/config/DemoSecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../08-spring-security-demo-JDBC-plaintext/target/spring-security-demo/WEB-INF/view/access-denied.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../08-spring-security-demo-JDBC-plaintext/target/spring-security-demo/WEB-INF/view/access-denied.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/koulgar/config/CustomerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/koulgar/config/CustomerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/fancy-login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/fancy-login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/list-customers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/list-customers.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/11-spring-security-WebCustomerTracker/WEB-INF/classes/css/add-customer-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/11-spring-security-WebCustomerTracker/WEB-INF/classes/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/11-spring-security-WebCustomerTracker/WEB-INF/view/list-customers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/11-spring-security-WebCustomerTracker/WEB-INF/view/list-customers.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/css/add-customer-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/css/style.css" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,58 +31,51 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/service/CustomerServiceImp.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="136">
-                  <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://D:/Users/KOULGAR/Downloads/crm-with-security-jdbc-encryption-authentication/bonus-code-crm-with-security-jdbc-encryption-authentication/src/main/java/com/luv2code/springdemo/controller/CustomerController.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="629">
-                  <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/pom.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-1700">
-                  <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://D:/Users/KOULGAR/Downloads/crm-with-security-jdbc-encryption-authentication/bonus-code-crm-with-security-jdbc-encryption-authentication/pom.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-1360">
-                  <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/config/CustomerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="128" column="38" selection-start-line="128" selection-start-column="11" selection-end-line="128" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/config/SecurityWebApplicationInitializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/config/SpringMvcDispatcherServletInitializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="e#520#521#0" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1248">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -133,7 +98,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/koulgar/dao/CustomerDAOImp.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/koulgar/dao/CustomerDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/koulgar/service/CustomerServiceImp.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/list-customers.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/koulgar/config/SpringMvcDispatcherServletInitializer.java" />
         <option value="$PROJECT_DIR$/../10-spring-security-demo-user-registration---/src/main/java/com/koulgar/config/DemoAppConfig.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/customer-form.jsp" />
@@ -144,10 +108,11 @@
         <option value="D:/Users/KOULGAR/Downloads/crm-with-security-jdbc-encryption-authentication/bonus-code-crm-with-security-jdbc-encryption-authentication/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/security-persistence-mysql.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/koulgar/config/CustomerSecurityConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/koulgar/config/CustomerConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/koulgar/controller/RegistrationController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/fancy-login.jsp" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/list-customers.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/fancy-login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/koulgar/config/CustomerConfig.java" />
       </list>
     </option>
   </component>
@@ -172,8 +137,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -275,14 +238,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="11-spring-security-WebCustomerTracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="11-spring-security-WebCustomerTracker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -298,6 +253,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -305,7 +262,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../10-spring-security-demo-user-registration---" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -314,11 +271,11 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15251142" />
     <property name="project.structure.side.proportion" value="0.27801725" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\JAVA\UdemySpringEğitim\SpringSecurity\11-spring-security-WebCustomerTracker\src\main\resources" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.koulgar.aspect" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\JAVA\UdemySpringEğitim\SpringSecurity\11-spring-security-WebCustomerTracker\src\main\webapp" />
@@ -327,8 +284,9 @@
       <recent name="D:\JAVA\UdemySpringEğitim\SpringSecurity\11-spring-security-WebCustomerTracker\src\main\java\com\koulgar\user" />
       <recent name="D:\JAVA\UdemySpringEğitim\SpringSecurity\11-spring-security-WebCustomerTracker\src\main\webapp\WEB-INF\view" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.koulgar.aspect" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA\UdemySpringEğitim\SpringSecurity\11-spring-security-WebCustomerTracker\src\main\webapp" />
+      <recent name="D:\JAVA\UdemySpringEğitim\SpringSecurity\11-spring-security-WebCustomerTracker\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -495,11 +453,12 @@
       <workItem from="1555454166374" duration="5723000" />
       <workItem from="1555493753342" duration="303000" />
       <workItem from="1555494264136" duration="3707000" />
+      <workItem from="1555498602161" duration="4682000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19178000" />
+    <option name="totallyTimeSpent" value="23860000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -511,7 +470,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.1881663" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.19029851" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -589,22 +548,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/css/add-customer-style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/access-denied.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/css/add-customer-style.css" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp" />
     <entry file="file://D:/Users/KOULGAR/Downloads/bonus-code-spring-security-user-registration-custom-user-details/bonus-code-spring-security-user-registration-custom-user-details/src/main/java/com/luv2code/springsecurity/demo/config/CustomAuthenticationSuccessHandler.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/entity/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/aspect/CRMLoggingAspect.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -620,20 +567,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/security-persistence-mysql.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/persistence-mysql.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -654,22 +587,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/dao/CustomerDAOImp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#0#41#1" expanded="true" />
-            <element signature="e#0#101#0" expanded="true" />
-            <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#0#60#1" expanded="true" />
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Users/KOULGAR/Downloads/crm-with-security-jdbc-encryption-authentication/bonus-code-crm-with-security-jdbc-encryption-authentication/src/main/java/com/luv2code/springdemo/config/MySpringMvcDispatcherServletInitializer.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -683,27 +600,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/list-customers.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/controller/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/controller/CustomerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -717,73 +617,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/fancy-login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="38" column="79" selection-start-line="38" selection-start-column="79" selection-end-line="38" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/index.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/config/CustomerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/config/CustomerSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/style.css">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/config/SecurityWebApplicationInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/config/SpringMvcDispatcherServletInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-          <folding>
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/user/CrmUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://D:/Users/KOULGAR/Downloads/crm-with-security-jdbc-encryption-authentication/bonus-code-crm-with-security-jdbc-encryption-authentication/src/main/java/com/luv2code/springdemo/service/CustomerService.java">
       <provider selected="true" editor-type-id="text-editor" />
@@ -814,16 +657,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/service/CustomerServiceImp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Users/KOULGAR/Downloads/crm-with-security-jdbc-encryption-authentication/bonus-code-crm-with-security-jdbc-encryption-authentication/src/main/java/com/luv2code/springdemo/controller/RegistrationController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-58" />
@@ -831,6 +664,13 @@
     </entry>
     <entry file="file://D:/Users/KOULGAR/Downloads/crm-with-security-jdbc-encryption-authentication/bonus-code-crm-with-security-jdbc-encryption-authentication/src/main/java/com/luv2code/springdemo/controller/LoginController.java">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Users/KOULGAR/Downloads/crm-with-security-jdbc-encryption-authentication/bonus-code-crm-with-security-jdbc-encryption-authentication/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://D:/Users/KOULGAR/Downloads/crm-with-security-jdbc-encryption-authentication/bonus-code-crm-with-security-jdbc-encryption-authentication/src/main/java/com/luv2code/springdemo/controller/CustomerController.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -842,17 +682,160 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Users/KOULGAR/Downloads/crm-with-security-jdbc-encryption-authentication/bonus-code-crm-with-security-jdbc-encryption-authentication/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/service/CustomerServiceImp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1360">
-          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/controller/CustomerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../07-spring-security-demo-user-roles/src/main/webapp/WEB-INF/view/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="18" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../05-spring-security-demo-logout/src/main/webapp/WEB-INF/view/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/access-denied.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/entity/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/registration-confirmation.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/security-persistence-mysql.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/persistence-mysql.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/registration-form.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="83" column="54" lean-forward="true" selection-start-line="83" selection-start-column="54" selection-end-line="83" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/user/CrmUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/list-customers.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="89" column="16" selection-start-line="89" selection-start-column="16" selection-end-line="89" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/dao/CustomerDAOImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#0#41#1" expanded="true" />
+            <element signature="e#0#101#0" expanded="true" />
+            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#0#60#1" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/config/CustomerSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="39" column="59" selection-start-line="39" selection-start-column="59" selection-end-line="39" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/fancy-login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1700">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        <state relative-caret-position="-1248">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/config/SecurityWebApplicationInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/config/SpringMvcDispatcherServletInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/koulgar/config/CustomerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="128" column="38" selection-start-line="128" selection-start-column="11" selection-end-line="128" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

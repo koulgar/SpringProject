@@ -140,12 +140,9 @@ public class CustomerConfig implements WebMvcConfigurer {
     }
 
     private int getIntProperty(String propName) {
-
         String propVal = environment.getProperty(propName);
-
         // now convert to int
         int intPropVal = Integer.parseInt(propVal);
-
         return intPropVal;
     }
 

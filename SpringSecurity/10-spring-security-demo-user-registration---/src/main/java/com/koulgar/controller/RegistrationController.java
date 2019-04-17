@@ -1,6 +1,6 @@
 package com.koulgar.controller;
 
-import com.koulgar.config.com.koulgar.entitiy.User;
+import com.koulgar.entitiy.User;
 import com.koulgar.service.UserService;
 import com.koulgar.user.CrmUser;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -33,7 +33,7 @@ public class RegistrationController {
     }
 
     @PostMapping("/processRegistrationForm")
-    public String processRegistrationForm(@Valid @ModelAttribute("CrmUser")CrmUser crmUser, BindingResult bindingResult){
+    public String processRegistrationForm(@Valid @ModelAttribute("crmUser")CrmUser crmUser, BindingResult bindingResult){
         //form validation
         if(bindingResult.hasErrors()){
             return "registration-form";
@@ -50,4 +50,5 @@ public class RegistrationController {
         userService.save(crmUser);
         return "registration-confirmation";
     }
+
 }

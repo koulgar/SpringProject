@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import com.koulgar.config.com.koulgar.entitiy.User;
+import com.koulgar.entitiy.User;
 import com.koulgar.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.Authentication;
@@ -26,12 +26,12 @@ public class CustomAuthenticationSuccessHandler implements AuthenticationSuccess
 
 		System.out.println("\n\nIn customAuthenticationSuccessHandler\n\n");
 
-		String userName = authentication.getName();
+		String username = authentication.getName();
 		
-		System.out.println("userName=" + userName);
+		System.out.println("username=" + username);
 
-		User theUser = userService.findByUserName(userName);
-		
+		User theUser = userService.findByUserName(username);
+
 		// now place in the session
 		HttpSession session = request.getSession();
 		session.setAttribute("user", theUser);

@@ -36,7 +36,7 @@ public class DemoSecurityConfig extends WebSecurityConfigurerAdapter {
 				.antMatchers("/systems/**").hasRole("ADMIN")
 				.and()
 				.formLogin()
-				.loginPage("/showMyLoginPage")
+				.loginPage("/showLoginPage")
 				.loginProcessingUrl("/authenticateTheUser")
 				.successHandler(customAuthenticationSuccessHandler)
 				.permitAll()
@@ -44,7 +44,6 @@ public class DemoSecurityConfig extends WebSecurityConfigurerAdapter {
 				.logout().permitAll()
 				.and()
 				.exceptionHandling().accessDeniedPage("/access-denied");
-
 	}
 
 	//beans
@@ -62,11 +61,4 @@ public class DemoSecurityConfig extends WebSecurityConfigurerAdapter {
 		auth.setPasswordEncoder(passwordEncoder()); //set the password encoder - bcrypt
 		return auth;
 	}
-
 }
-
-
-
-
-
-
