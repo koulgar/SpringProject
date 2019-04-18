@@ -3,6 +3,7 @@ package com.koulgar.controller;
 import com.koulgar.entitiy.User;
 import com.koulgar.service.UserService;
 import com.koulgar.user.CrmUser;
+import com.koulgar.validation.ValidEmail;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.propertyeditors.StringTrimmerEditor;
 import org.springframework.stereotype.Controller;

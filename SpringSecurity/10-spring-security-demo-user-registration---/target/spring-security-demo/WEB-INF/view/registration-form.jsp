@@ -14,6 +14,16 @@
     <script	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
+<div id="loginbox" style="margin-top: 50px;"
+     class="mainbox col-md-3 col-md-offset-2 col-sm-6 col-sm-offset-2">
+
+    <div class="panel panel-info">
+
+        <div class="panel-heading">
+            <div class="panel-title">Registration</div>
+        </div>
+
+        <div style="padding-top: 30px" class="panel-body">
 <!-- Registration Form -->
 <form:form action="${pageContext.request.contextPath}/register/processRegistrationForm" modelAttribute="crmUser" class="form-horizontal">
 
@@ -44,4 +54,7 @@
     <button type="submit" class="btn btn-primary">Register</button>
 </form:form>
 </body>
+</div>
+</div>
+</div>
 </html>
