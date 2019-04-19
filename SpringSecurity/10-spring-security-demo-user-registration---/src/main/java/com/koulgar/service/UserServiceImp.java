@@ -48,7 +48,7 @@ public class UserServiceImp implements UserService {
         user.setLastName(crmUser.getLastName());
         user.setEmail(crmUser.getEmail());
         //give user default role of "employee"
-        user.setRoles(Arrays.asList(new Role("ROLE_EMPLOYEE")));
+        user.setRoles(Arrays.asList(roleDao.findRoleByName("ROLE_EMPLOYEE")));
         //save user in the database
         userDao.save(user);
     }

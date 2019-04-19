@@ -40,7 +40,7 @@
     <form:password path="password" placeholder="password" class="form-control" />
     <br>
     <!-- Password -->
-    <form:password path="matchingPassword" placeholder="password" class="form-control" />
+    <form:password path="matchingPassword" placeholder="repeat password" class="form-control" />
     <br>
     <!-- First Name -->
     <form:input path="firstName" placeholder= "first name" class="form-control" />
